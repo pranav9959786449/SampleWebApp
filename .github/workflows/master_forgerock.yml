@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'forgerock'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AAB5093487CF41BD91F982787E47B4C0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E2A1575E6DC4502A4589DC9EA48E7CC }}
           package: .
